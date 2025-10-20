@@ -100,23 +100,23 @@
         <!-- First Row -->
         <td align="center">
           <img src="https://drive.google.com/uc?export=view&id=1B-MoZ8ifbsYa0nbPAahTuceh7Su4jxwm" width="100" style="border-radius:50%;" /><br/>
-          **Rudra Prasad Dutta**<br/>
+          Rudra Prasad Dutta<br/>
           Full-stack MERN, AI/ML<br/>
-           <a href="mailto:rudraprasad.dutta.04@gmail.com">Gmail</a> |
+          <a href="mailto:rudraprasad.dutta.04@gmail.com">Gmail</a> |
           <a href="https://www.instagram.com/rudraprashad._">Instagram</a> | 
           <a href="https://www.linkedin.com/in/rudra-prasad-dutta-6558412b7">LinkedIn</a>  
         </td>
         <td align="center">
           <img src="https://drive.google.com/uc?export=view&id=1wzr7fktzmZn_zWmS7UWZOr1Uv7Ma6AR1" width="100" style="border-radius:50%;" /><br/>
-          **Rudra Narayan Das**<br/>
-          Python, AI/ML, Gen AI<br/>
+          Rudra Narayan Das<br/>
+          Python, AI/ML/DL, Gen AI<br/>
           <a href="mailto:rudranarayandas642@gmail.com">Gmail</a> |  
           <a href="https://www.instagram.com/mr_rudranarayan_">Instagram</a> |
           <a href="https://www.linkedin.com/in/rudranarayan-das-832a02320">LinkedIn</a>
         </td>
         <td align="center">
           <img src="https://drive.google.com/uc?export=view&id=1cE3AWWvDwqoKaKSQFu7qyMSuXnn8ncO0" width="100" style="border-radius:50%;" /><br/>
-          **Pritam Kumar Sahoo**<br/>
+          Pritam Kumar Sahoo<br/>
           Automation, Python, JS<br/>
           <a href="mailto:pritamiku14@gmail.com">Gmail</a> | 
           <a href="https://www.instagram.com/rc__pritam__">Instagram</a>
@@ -125,22 +125,22 @@
       <tr>
         <!-- Second Row -->
         <td align="center">
-          <img src="https://via.placeholder.com/100" width="100" style="border-radius:50%;" /><br/>
-          **Anup Sahu**<br/>
+          <img src="https://drive.google.com/uc?export=view&id=13cNnbUUdVBudPCyNQe4HvQhvKdQPmX7c" width="100" style="border-radius:50%;" /><br/>
+          Anup Sahu<br/>
           Automation, Python, Embedded<br/>
           <a href="mailto:anupkumarsahu676@gmail.com">Gmail</a> | 
           <a href="https://www.instagram.com/_a.y.a.a.n_24">Instagram</a>
         </td>
         <td align="center">
-          <img src="https://via.placeholder.com/100" width="100" style="border-radius:50%;" /><br/>
-          **Bubu Majhi**<br/>
+          <img src="https://drive.google.com/uc?export=view&id=183SPUOMHhZLIkVOXKycwCDtFPEuM1JKZ" width="100" style="border-radius:50%;" /><br/>
+          Bubu Majhi<br/>
           UI/UX, Marketing<br/>
           <a href="mailto:bubumajhi2324n@gmail.com">Gmail</a> | 
           <a href="https://www.instagram.com/_bubu.02">Instagram</a>
         </td>
         <td align="center">
           <img src="https://drive.google.com/uc?export=view&id=17BWfXLI0-RsLqfTKpU3JIcBxKbykP20d" width="100" style="border-radius:50%;" /><br/>
-          **Someswar Mallick**<br/>
+          Someswar Mallick<br/>
           Finance, Strategy<br/>
           <a href="mailto:sovan.someswar888@gmail.com">Gmail</a> | 
           <a href="https://www.instagram.com/someswar_mallick">Instagram</a>
