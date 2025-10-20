@@ -2,7 +2,6 @@
 
   <img src="https://img.shields.io/badge/Obscura_Group_of_Technology-00C7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Obscura Group"/>  
 
-  
   <!-- Typewriter Animated Heading -->
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C7FF&background=0d1117&width=600&lines=Obscura+Groups+of+Technology+%E2%9C%A8" alt="Typewriter Effect" />
@@ -13,7 +12,7 @@
   <!-- Contact Info with Icons -->
   <p>
     <a href="mailto:tech.obscuragroups@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Official Mail"/>
+      <img src="https://img.shields.io/badge/Web-000000?style=for-the-badge&logo=web&logoColor=white" alt="Official Mail"/>
     </a>
     <a href="https://www.instagram.com/rdr.dev_?igsh=dTJqcWt3NTR5bGxq" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -26,9 +25,7 @@
 ---
 
 <details open>  
-  <summary>  
-    <h2>🚀 About Us</h2>  
-  </summary>  
+  <summary>🚀 About Us</summary>  
   <p>  
     We are a group of passionate students from **CUPGS, BPUT Rourkela**, building impactful software solutions, participating in hackathons, and hustling to make our startup ideas a reality. Our mission is to combine creativity, technology, and teamwork to develop innovative products that solve real-world problems.  
   </p>  
@@ -43,9 +40,7 @@
 ---
 
 <details open>  
-  <summary>  
-    <h2>🛠️ Tech & Tools</h2>  
-  </summary>  
+  <summary>🛠️ Tech & Tools</summary>  
   <p align="center">  
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>  
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>  
@@ -69,9 +64,7 @@
 ---
 
 <details open>  
-  <summary>  
-    <h2>💼 Services We Provide</h2>  
-  </summary>  
+  <summary>💼 Services We Provide</summary>  
   <ul>  
     <li>🌐 Web Development</li>  
     <li>🖥️ Landing Page Development</li>  
@@ -85,124 +78,89 @@
 ---
 
 <details open>  
-  <summary>  
-    <h2>✨ Some of Our Development Work</h2>  
-  </summary>  
-
-<div align="center">  
-  <p>Projects</p>
-  <a href="#" target="_blank">🔗 Project 1</a> &nbsp; | &nbsp;
-  <a href="#" target="_blank">🔗 Project 2</a> &nbsp; | &nbsp;
-  <a href="#" target="_blank">🔗 Project 3</a> &nbsp; | &nbsp;
-  <a href="#" target="_blank">🔗 Project 4</a> &nbsp; | &nbsp;
-  <a href="#" target="_blank">🔗 Project 5</a> &nbsp; | &nbsp;
-  <a href="#" target="_blank">🔗 Project 6</a>  
-</div>  
+  <summary>✨ Some of Our Development Work</summary>  
+  <div align="center">  
+    <p>Projects</p>  
+    <a href="#" target="_blank">🔗 Project 1</a> &nbsp; | &nbsp;  
+    <a href="#" target="_blank">🔗 Project 2</a> &nbsp; | &nbsp;  
+    <a href="#" target="_blank">🔗 Project 3</a> &nbsp; | &nbsp;  
+    <a href="#" target="_blank">🔗 Project 4</a> &nbsp; | &nbsp;  
+    <a href="#" target="_blank">🔗 Project 5</a> &nbsp; | &nbsp;  
+    <a href="#" target="_blank">🔗 Project 6</a>  
+  </div>  
 </details>  
 
 ---
 
 <details open>  
-  <summary>  
-    <h2>✨ Our Team</h2>  
-  </summary>  
-
-<div align="center">
-
-### Rudra Prasad Dutta - Founder & CEO
-<img src="https://drive.google.com/uc?export=view&id=1KJk1VA1KxSQxMHzFee2iyw7Fw2lvftqv" alt="Rudra Prasad Dutta" width="100" style="border-radius:50%;" />
-  
-**About:**  
-ECE student and full-stack developer, leading the team and building impactful web applications.  
-
-**Tech Stack / Expertise:**  
-MERN Stack, AI/ML, Generative AI, Full-stack Development  
-
-**Connect:**  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudraprasad.dutta.04@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rudraprashad._)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-prasad-dutta-6558412b7)
-
----
-
-### Rudra Narayan Das - Co-Founder & CTO
-<img src="https://via.placeholder.com/100" alt="Rudra Narayan Das" width="100" style="border-radius:50%;" />
-
-**About:**  
-Python Developer, AI/ML & Generative AI specialist. Handles backend architecture and AI solutions.  
-
-**Tech Stack / Expertise:**  
-Python, AI/ML, Generative AI, Automation  
-
-**Connect:**  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudra790)
-
----
-
-### Anup Sahu - Project Leader / Automation Engineer
-<img src="https://via.placeholder.com/100" alt="Anup Sahu" width="100" style="border-radius:50%;" />
-
-**About:**  
-Leads automation projects and ensures smooth execution.  
-
-**Tech Stack / Expertise:**  
-Automation, Python, Embedded Systems  
-
-**Connect:**  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anup-24)
-
----
-
-### Pritam - COO / Automation Engineer
-<img src="https://via.placeholder.com/100" alt="Pritam" width="100" style="border-radius:50%;" />
-
-**About:**  
-Handles operations and automation solutions.  
-
-**Tech Stack / Expertise:**  
-Automation, DevOps, Python  
-
-**Connect:**  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pritam-2006312)
-
----
-
-### Bubu - UI/UX Developer / CMO
-<img src="https://via.placeholder.com/100" alt="Bubu" width="100" style="border-radius:50%;" />
-
-**About:**  
-Designs intuitive interfaces and marketing strategies.  
-
-**Tech Stack / Expertise:**  
-UI/UX Design, Figma, Branding, Marketing  
-
----
-
-### Someswar Mallick - CFO / Speaker & Adviser
-<img src="https://via.placeholder.com/100" alt="Someswar Mallick" width="100" style="border-radius:50%;" />
-
-**About:**  
-Manages finance, strategy, and advises the team.  
-
-**Tech Stack / Expertise:**  
-Finance, Strategy, Mentorship  
-
-</div>
+  <summary>✨ Our Team</summary>  
+  <div align="center">  
+    <table>
+      <tr>
+        <!-- First Row -->
+        <td align="center">
+          <img src="https://drive.google.com/uc?export=view&id=1B-MoZ8ifbsYa0nbPAahTuceh7Su4jxwm" width="100" style="border-radius:50%;" /><br/>
+          **Rudra Prasad Dutta**<br/>
+          Full-stack MERN, AI/ML<br/>
+           <a href="mailto:rudraprasad.dutta.04@gmail.com">Gmail</a> |
+          <a href="https://www.instagram.com/rudraprashad._">Instagram</a> | 
+          <a href="https://www.linkedin.com/in/rudra-prasad-dutta-6558412b7">LinkedIn</a>  
+        </td>
+        <td align="center">
+          <img src="https://drive.google.com/uc?export=view&id=1wzr7fktzmZn_zWmS7UWZOr1Uv7Ma6AR1" width="100" style="border-radius:50%;" /><br/>
+          **Rudra Narayan Das**<br/>
+          Python, AI/ML, Gen AI<br/>
+          <a href="mailto:rudranarayandas642@gmail.com">Gmail</a> |  
+          <a href="https://www.instagram.com/mr_rudranarayan_">Instagram</a> |
+          <a href="https://www.linkedin.com/in/rudranarayan-das-832a02320">LinkedIn</a>
+        </td>
+        <td align="center">
+          <img src="https://drive.google.com/uc?export=view&id=1cE3AWWvDwqoKaKSQFu7qyMSuXnn8ncO0" width="100" style="border-radius:50%;" /><br/>
+          **Pritam Kumar Sahoo**<br/>
+          Automation, Python, JS<br/>
+          <a href="mailto:pritamiku14@gmail.com">Gmail</a> | 
+          <a href="https://www.instagram.com/rc__pritam__">Instagram</a>
+        </td>
+      </tr>
+      <tr>
+        <!-- Second Row -->
+        <td align="center">
+          <img src="https://via.placeholder.com/100" width="100" style="border-radius:50%;" /><br/>
+          **Anup Sahu**<br/>
+          Automation, Python, Embedded<br/>
+          <a href="mailto:anupkumarsahu676@gmail.com">Gmail</a> | 
+          <a href="https://www.instagram.com/_a.y.a.a.n_24">Instagram</a>
+        </td>
+        <td align="center">
+          <img src="https://via.placeholder.com/100" width="100" style="border-radius:50%;" /><br/>
+          **Bubu Majhi**<br/>
+          UI/UX, Marketing<br/>
+          <a href="mailto:bubumajhi2324n@gmail.com">Gmail</a> | 
+          <a href="https://www.instagram.com/_bubu.02">Instagram</a>
+        </td>
+        <td align="center">
+          <img src="https://drive.google.com/uc?export=view&id=17BWfXLI0-RsLqfTKpU3JIcBxKbykP20d" width="100" style="border-radius:50%;" /><br/>
+          **Someswar Mallick**<br/>
+          Finance, Strategy<br/>
+          <a href="mailto:sovan.someswar888@gmail.com">Gmail</a> | 
+          <a href="https://www.instagram.com/someswar_mallick">Instagram</a>
+        </td>
+      </tr>
+    </table>
+  </div>
 </details>  
 
 ---
 
-<details open>
-<summary>📬 Contact & Footer</summary>
-<div align="center">
-
-**Official Contact:** [tech.obscuragroups@gmail.com](mailto:tech.obscuragroups@gmail.com)  
-
-**Instagram:** [@obscura.in_](https://www.instagram.com/rdr.dev_?igsh=dTJqcWt3NTR5bGxq)  
-
-**Company Start Year:** 2025  
-
-</div>
+<details open>  
+<summary>📬 Contact & Footer</summary>  
+<div align="center">  
+  Official Contact: [tech.obscuragroups@gmail.com](mailto:tech.obscuragroups@gmail.com)  
+  <br/>
+  Instagram: [@obscura.in_](https://www.instagram.com/rdr.dev_?igsh=dTJqcWt3NTR5bGxq)  
+  <br/>
+  Company Start Year: 2025
+</div>  
 </details>  
 
 ---
